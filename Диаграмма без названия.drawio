@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T21:10:42.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="ywqJ1yFUhTwgLfve7X3R" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T21:12:18.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="FOY391BtNfLajn287LTv" version="22.1.11" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="1762" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry y="104" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-6" value="1С:УТ РМ" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE991;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#8B4D13;" vertex="1" parent="1">
-          <mxGeometry x="550" y="310" width="160" height="150" as="geometry" />
+          <mxGeometry x="550" y="310" width="160" height="194" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-7" value="Заказ поставщику" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-6">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-20" value="Номенклатура поставщика" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-6">
           <mxGeometry y="106" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-Be9Nho__Xy84-P588cp-50" value="Остатки на складах" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-6">
+          <mxGeometry y="150" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-11" value="1С:Бюджетирование" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE991;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#8B4D13;" vertex="1" parent="1">
           <mxGeometry x="520" y="65" width="160" height="206" as="geometry" />
