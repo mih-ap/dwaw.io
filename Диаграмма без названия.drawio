@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T07:26:26.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="UlRRtJjFOEZaFY-ejWHc" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T07:37:04.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="7TGVfP75_95PhrY_dm15" version="22.1.11" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="1762" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -94,16 +94,16 @@
         <mxCell id="-Be9Nho__Xy84-P588cp-67" value="Согласование заявки на закупку" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-11">
           <mxGeometry y="270" width="160" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-15" value="УХ" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE991;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#8B4D13;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="360" width="160" height="140" as="geometry" />
+        <mxCell id="-Be9Nho__Xy84-P588cp-15" value="1С:УХ" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE991;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#8B4D13;" vertex="1" parent="1">
+          <mxGeometry x="830" y="355" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-16" value="Тендерные закупки" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
+        <mxCell id="-Be9Nho__Xy84-P588cp-19" value="Список тендерных закупок" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-17" value="Ценовая спецификация??" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
+        <mxCell id="-Be9Nho__Xy84-P588cp-16" value="Тендерные закупки" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-19" value="Row 4" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
+        <mxCell id="-Be9Nho__Xy84-P588cp-17" value="Ценовая спецификация??" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
           <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-21" value="ЭК5" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
@@ -134,7 +134,7 @@
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-45" value="Не разобрано" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="1450" y="650" width="160" height="140" as="geometry" />
+          <mxGeometry x="1450" y="600" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-47" value="Row 2" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-45">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-68" value="1С:Документооборот" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE991;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#8B4D13;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="55" width="160" height="224" as="geometry" />
+          <mxGeometry x="830" y="20" width="160" height="224" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-69" value="Согласование договора" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-68">
           <mxGeometry y="26" width="160" height="34" as="geometry" />
@@ -164,10 +164,10 @@
           <mxGeometry y="100" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-86" value="Согласование поставщиков" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="-Be9Nho__Xy84-P588cp-68">
-          <mxGeometry y="126" width="160" height="54" as="geometry" />
+          <mxGeometry y="126" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-70" value="Согласование ценовой спецификации" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-68">
-          <mxGeometry y="180" width="160" height="44" as="geometry" />
+          <mxGeometry y="170" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Be9Nho__Xy84-P588cp-46" target="-Be9Nho__Xy84-P588cp-70">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="1190" y="600" width="210" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-83" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1320" y="270" width="180" height="160" as="geometry" />
+          <mxGeometry x="1160" y="335" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-75" value="Тендерные площадки" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="-Be9Nho__Xy84-P588cp-83">
           <mxGeometry width="160" height="140" as="geometry" />
