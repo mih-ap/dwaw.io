@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T11:09:56.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="_CVoPj1fVoK9UCJmO4kb" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T11:33:14.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 YaBrowser/23.11.0.0 Safari/537.36" etag="pvup3JogVns8AQnbhzc8" version="22.1.11" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="2391" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -55,23 +55,23 @@
         <mxCell id="-Be9Nho__Xy84-P588cp-87" value="Ценовая спецификация" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
           <mxGeometry y="94" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-16" value="Тендерные закупки" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
+        <mxCell id="-Be9Nho__Xy84-P588cp-16" value="Тендерные закупки (документы)" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-15">
           <mxGeometry y="134" width="280" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-126" value="Справочники" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#8B4D13;" vertex="1" parent="-Be9Nho__Xy84-P588cp-6">
           <mxGeometry y="408" width="280" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-64" value="Справочник потребностей" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-126">
+        <mxCell id="-Be9Nho__Xy84-P588cp-64" value="Потребности" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-126">
           <mxGeometry y="30" width="280" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-20" value="Номенклатура поставщика" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-126">
+        <mxCell id="-Be9Nho__Xy84-P588cp-57" value="Номенклатура внутренняя" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-126">
           <mxGeometry y="74" width="280" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-57" value="Номенклатура внутренняя" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-126">
+        <mxCell id="-Be9Nho__Xy84-P588cp-20" value="Номенклатура поставщика" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-126">
           <mxGeometry y="118" width="280" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-11" value="1С:Бюджетирование" style="swimlane;html=1;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE991;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#8B4D13;" vertex="1" parent="1">
-          <mxGeometry x="910" y="120" width="280" height="472" as="geometry" />
+          <mxGeometry x="910" y="120" width="280" height="490" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-101" value="Бюджетирование" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#8B4D13;" vertex="1" parent="-Be9Nho__Xy84-P588cp-11">
           <mxGeometry y="26" width="280" height="134" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry y="74" width="280" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-21" value="ЭК5" style="swimlane;html=1;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="290" y="20" width="160" height="210" as="geometry" />
+          <mxGeometry x="290" y="20" width="160" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-150" value="Логистика" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="-Be9Nho__Xy84-P588cp-21">
           <mxGeometry y="26" width="160" height="70" as="geometry" />
@@ -145,34 +145,34 @@
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-68" value="1С:Документооборот" style="swimlane;html=1;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFE991;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#8B4D13;" vertex="1" parent="1">
-          <mxGeometry x="920" y="644" width="260" height="288" as="geometry" />
+          <mxGeometry x="910" y="644" width="280" height="306" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-138" value="Справочники" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#8B4D13;" vertex="1" parent="-Be9Nho__Xy84-P588cp-68">
-          <mxGeometry y="26" width="260" height="110" as="geometry" />
+          <mxGeometry y="26" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-18" value="Поставщики" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-138">
-          <mxGeometry y="30" width="260" height="40" as="geometry" />
+          <mxGeometry y="30" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-72" value="Договоры" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=2" vertex="1" parent="-Be9Nho__Xy84-P588cp-138">
-          <mxGeometry y="70" width="260" height="40" as="geometry" />
+          <mxGeometry y="70" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-142" value="Процессы" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#8B4D13;" vertex="1" parent="-Be9Nho__Xy84-P588cp-68">
-          <mxGeometry y="136" width="260" height="152" as="geometry" />
+          <mxGeometry y="136" width="280" height="152" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-69" value="Согласование договора" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-142">
-          <mxGeometry y="30" width="260" height="34" as="geometry" />
+          <mxGeometry y="30" width="280" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-86" value="Согласование поставщиков" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="-Be9Nho__Xy84-P588cp-142">
-          <mxGeometry y="64" width="260" height="44" as="geometry" />
+          <mxGeometry y="64" width="280" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-70" value="Согласование ценовой спецификации" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="-Be9Nho__Xy84-P588cp-142">
-          <mxGeometry y="108" width="260" height="44" as="geometry" />
+          <mxGeometry y="108" width="280" height="44" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-74" value="Вопросы:&lt;br&gt;1. Есть ли ценовые спецификации сейчас в договорах?" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1800" y="120" width="210" height="170" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-83" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="640" y="740" width="180" height="160" as="geometry" />
+          <mxGeometry x="20" y="772" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-75" value="" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="-Be9Nho__Xy84-P588cp-83">
           <mxGeometry width="160" height="140" as="geometry" />
@@ -217,7 +217,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Be9Nho__Xy84-P588cp-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Be9Nho__Xy84-P588cp-16" target="-Be9Nho__Xy84-P588cp-82">
+        <mxCell id="-Be9Nho__Xy84-P588cp-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;" edge="1" parent="1" source="-Be9Nho__Xy84-P588cp-16" target="-Be9Nho__Xy84-P588cp-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Be9Nho__Xy84-P588cp-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Be9Nho__Xy84-P588cp-18" target="-Be9Nho__Xy84-P588cp-6">
